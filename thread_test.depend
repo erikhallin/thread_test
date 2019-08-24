@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457779526 source:c:\erikprogram\thread_test\main.cpp
+	<iostream>
+	<thread>
+	<time.h>
+
